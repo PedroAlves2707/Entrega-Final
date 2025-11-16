@@ -1,0 +1,9 @@
+:root{--accent:#f97316;--bg:#fff;--fg:#222}
+body{font-family:system-ui,Arial;background:var(--bg);color:var(--fg);margin:0;padding:16px}
+header{background:var(--accent);color:#fff;padding:12px;border-radius:6px}
+main{max-width:760px;margin:18px auto}
+#timer{font-size:40px;text-align:center;margin:10px 0}
+.controls{display:flex;gap:8px;justify-content:center;margin-bottom:12px}
+button{padding:8px 12px;border-radius:6px;border:1px solid #ddd;background:#fff;cursor:pointer}
+#quoteText{margin-top:12px;padding:8px;border-left:4px solid var(--accent);background:#fffef8}
+footer{margin-top:20px;font-size:14px;color:#666}
