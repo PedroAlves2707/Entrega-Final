@@ -151,4 +151,10 @@ Sempre que há um `push` na branch `main`:
 - **Vídeo/GIF de demonstração:**  
   (inserir link do vídeo ou GIF mostrando: uso do timer, instalação do PWA e consumo da API local)
 
+
+## Feito por
+Pedro Alves Balduino Dias
+Pedro Barreto Palheta de Oliveira
+Lucas Amaral Evangelista
+Luiz Henrique Romualdo da Silva Guedes
 ---
