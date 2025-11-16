@@ -153,8 +153,8 @@ Sempre que há um `push` na branch `main`:
 
 
 ## Feito por
-Pedro Alves Balduino Dias
-Pedro Barreto Palheta de Oliveira
-Lucas Amaral Evangelista
-Luiz Henrique Romualdo da Silva Guedes
+- Pedro Alves Balduino Dias
+- Pedro Barreto Palheta de Oliveira
+- Lucas Amaral Evangelista
+- Luiz Henrique Romualdo da Silva Guedes
 ---
