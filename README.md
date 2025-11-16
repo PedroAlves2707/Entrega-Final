@@ -154,5 +154,5 @@ Sempre que há um `push` na branch `main`:
   `https://github.com/PedroAlves2707/Entrega-Final/actions`
 
 - **Vídeo/GIF de demonstração:**  
-  (inserir link do vídeo ou GIF mostrando: uso do timer, instalação do PWA e consumo da API local)
+   https://www.youtube.com/watch?v=4R8S5AGP1mo
 ---
