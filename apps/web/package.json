@@ -1,0 +1,14 @@
+{
+  "name": "web",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}

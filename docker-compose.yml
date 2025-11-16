@@ -1,0 +1,16 @@
+services:
+  api:
+    build: ./apps/api
+    ports:
+      - "3000:3000"
+    container_name: pomodoro-dos-crias-pwa-api
+
+  web:
+    build: ./apps/web
+    ports:
+      - "8080:80"
+    environment:
+      - API_URL=http://api:3000/api/quote
+    depends_on:
+      - api
+    container_name: pomodoro-dos-crias-pwa-web
