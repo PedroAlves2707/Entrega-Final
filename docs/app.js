@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
   function registerServiceWorker() {
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker
-        .register('/sw.js')
+        .register('sw.js')
         .catch((err) => console.error('SW error', err));
     }
   }
